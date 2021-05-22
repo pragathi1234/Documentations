@@ -47,8 +47,8 @@ Given by AWS change but elastic IP won’t change.
 
 ### Install Required packages
 1. Update package manager **sudo apt-get update**
-2. Install python2 **sudo apt-get python3**
-3. Check python version **python -V**
+2. Install python2 **sudo apt install python3**
+3. Check python version **python3 -V**
 4. Install python package **sudo apt install python3-pip**
 5. To get pip3 **where is pip3**
 6. Install flask **pip3 install flask**

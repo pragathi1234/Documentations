@@ -1,6 +1,6 @@
 ## Machine Learning Flask application deployement using EC2 Instance
 [Reference:https://www.youtube.com/watch?v=oOqqwYI60FI&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1&index=7]
-### Build flask applocation
+### Build flask application
 
 ### Run and check in local
 
@@ -71,7 +71,7 @@ Note: **puttygen key.ppk -O private-openssh -o key.pem** to convert file from .p
 5. To copy file from remote server to local system on present directory 
 **scp -i MLModelPragathi.pem f1.txt ubuntu@ec2-54-163-38-111.compute-1.amazonaws.com:<filename> .**
 6. To copy folder from remote server to local system on present directory 
-**scp -i MLModelPragathi.pem -r f1.txt ubuntu@ec2-54-163-38-111.compute-1.amazonaws.com:<foldername> .**
+**scp -i MLModelPragathi.pem -r <foldername> ubuntu@ec2-54-163-38-111.compute-1.amazonaws.com:<foldername> .**
 
 ### After successfull login into remote server
 1. Ensure all required files should be present
