@@ -2,4 +2,4 @@
 
 AWS -- AWS documentations
 
-Django -- Django documentataions
+Django -- Django documentations
