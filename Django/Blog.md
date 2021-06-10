@@ -16,3 +16,6 @@ STATICFILES_DIRS = [
     BASE_DIR / "static"
 ]
 11. Images are also considered as static files, Create an folder called images and paste all images
+
+### Adding Models to blog
+
